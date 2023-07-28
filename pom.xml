@@ -9,7 +9,7 @@
 
 
   <packaging>jar</packaging>
-  <groupId>be.vlaanderen.omgeving.data.id.graph</groupId>
+  <groupId>be.vlaanderen.bodemenondergrond.data.id.graph</groupId>
   <artifactId>bodemenondergrond-conceptschemes-publiek</artifactId>
   <version>0.1.0-SNAPSHOT</version>
   <name>bodemenondergrond-conceptschemes-publiek</name>
